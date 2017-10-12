@@ -1,6 +1,10 @@
 #BlueJ class context
 comment0.target=Part3
-comment0.text=\r\nAssignment\ 1\ -\ Part3\ \:\:\ Problem\ Solving\ with\ Strings\r\nNAKUL\ DEB\ NATH\r\n\ 12-10-2017\r\n
+comment0.text=\r\n\ Assignment\ 1\ -\ Part3\ \:\:\ Problem\ Solving\ with\ Strings\r\n\ NAKUL\ DEB\ NATH\r\n\ 12-10-2017\r\n
 comment1.params=stringa\ stringb
 comment1.target=boolean\ twoOccurrences(java.lang.String,\ java.lang.String)
-numComments=2
+comment2.params=
+comment2.target=void\ testing()
+comment3.params=stringa\ stringb
+comment3.target=java.lang.String\ lastPart(java.lang.String,\ java.lang.String)
+numComments=4
